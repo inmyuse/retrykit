@@ -2,7 +2,7 @@
 
 > Retry logic and circuit breakers with an **identical API in Python and TypeScript**.
 
-[![PyPI version](https://img.shields.io/pypi/v/retrykit?label=pypi)](https://pypi.org/project/retrykit_lib/)
+[![PyPI version](https://img.shields.io/pypi/v/retrykit_lib?label=pypi)](https://pypi.org/project/retrykit-lib/)
 [![npm version](https://img.shields.io/npm/v/retrykit?label=npm)](https://www.npmjs.com/package/retrykit)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![Coverage](https://img.shields.io/badge/coverage-%3E90%25-brightgreen.svg)](#)
@@ -31,11 +31,11 @@ TypeScript**.
 ## Installation
 
 ```bash
-pip install retrykit       # Python
+pip install retrykit_lib   # Python  (import as `retrykit`)
 npm install retrykit       # TypeScript / JavaScript
 ```
 
-OpenTelemetry is optional: `pip install "retrykit[otel]"` or
+OpenTelemetry is optional: `pip install "retrykit_lib[otel]"` or
 `npm install @opentelemetry/api`.
 
 ## Quick start — same use case, both languages
