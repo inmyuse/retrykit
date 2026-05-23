@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.venv/
+venv/
+*.so
+
+# --- Node / TypeScript ---
+node_modules/
+coverage/
+*.tsbuildinfo
+.npm/
+.pnpm-store/
+.yarn/
+
+# --- Editors / OS ---
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# --- Claude Code local config ---
+.claude/
