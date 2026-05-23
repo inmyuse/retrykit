@@ -2,7 +2,7 @@
 
 > Retry logic and circuit breakers with an **identical API in Python and TypeScript**.
 
-[![PyPI version](https://img.shields.io/pypi/v/retrykit?label=pypi)](https://pypi.org/project/retrykit/)
+[![PyPI version](https://img.shields.io/pypi/v/retrykit?label=pypi)](https://pypi.org/project/retrykit_lib/)
 [![npm version](https://img.shields.io/npm/v/retrykit?label=npm)](https://www.npmjs.com/package/retrykit)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![Coverage](https://img.shields.io/badge/coverage-%3E90%25-brightgreen.svg)](#)
